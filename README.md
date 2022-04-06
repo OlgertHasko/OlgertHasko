@@ -1,7 +1,9 @@
 
-### Hi there 👋
-![](https://user-images.githubusercontent.com/92058117/162070147-b8c43d5a-2d11-40d7-b5b0-94d3e336650b.png)
 
+![](https://user-images.githubusercontent.com/92058117/162070147-b8c43d5a-2d11-40d7-b5b0-94d3e336650b.png)
+### Hi there 👋
+
+I’m Olgert, I spent the last 7 years working in Finance.  Recently I was an Investor Relations Associate for Private Equity and Hedge Funds.  I’m love data, statistics and am passionate about changing peoples perception about banking/finance. 
 
 
 <!--
