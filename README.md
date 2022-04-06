@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-! (C:\Users\Owner\Desktop\Python\Github\Github Pic.png)
+![alt text](Github\Github Pic.png)
 
 
 <!--
