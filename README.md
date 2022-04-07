@@ -10,7 +10,7 @@ I’m Olgert, I spent the last 7 years working in Finance. Recently I was an Inv
 - 😄 Pronouns: He/His/Him
 - 🔭 I’m currently working on SQL Certification
 - 👯 I’m looking to collaborate on with anyone working on an open source project to improve quality of life for the less fortunate
-- 📫 How to reach me: ![linkedin](https://user-images.githubusercontent.com/92058117/162088945-d0575191-aa47-4182-b16f-f9110406cd5e.png)(https://www.linkedin.com/in/olgert-hasko/) | ![gmail](https://user-images.githubusercontent.com/92058117/162089203-94204d2b-d87c-4023-bb3e-d120f1d92796.png) (mailto:olgerthasko@gmail.com)
+- 📫 How to reach me: [![LinkedIn](https://user-images.githubusercontent.com/92058117/162256866-0741ce12-2d40-4a6b-a27f-24c787cb305d.png](https://www.linkedin.com/in/olgert-hasko/) | [![Gmail](https://user-images.githubusercontent.com/92058117/162257063-b1e4eef9-8de8-4e20-b408-ed97827d0f09.png)](mailto:olgerthasko@gmail.com)
 
 
 
